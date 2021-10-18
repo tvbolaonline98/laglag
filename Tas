@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=531662,RESOLUTION=720x400,CODECS="avc1.77.30,mp4a.40.34"
+chunks.m3u8?Czj1i9k6&Rkj2f3jk=http://www.cyfostreams.com/streams/cyfo9.php&Urj7svfj
+/�ma��6���6����������E��(LU@�@)l
+�M�m�F�P��4z�R�P��O*��/�ma���W��W���������E�ILV@�@(J
+�M�m�F�P��4z�R�P���t��GET /live/s9/chunks.m3u8?Czj1i9k6&Rkj2f3jk=http://www.cyfostreams.com/streams/cyfo9.php&Urj7svfj HTTP/1.1
+Referer: http://www.cyfostreams.com/streams/cyfo9.php
+User-Agent: /2.1 (Linux;Android 11) ExoPlayerLib/2.11.4
+Accept-Encoding: gzip
+Host: 77.247.109.15
+Connection: Keep-Alive
