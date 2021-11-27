@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+http://hls.luziedu.com/livestream/ch11/playlist.m3u8?t=1638023315&a=51.81.223.186&u=dedc42a6faa1fd2238fe5f55dc57bcf8&k=f999ac9a6ffc90116cc70aa19d789283
