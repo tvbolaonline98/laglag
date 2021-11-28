@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bf.thcydzsw.com/live/fulante.m3u8
+https://manifest-gce-us-east4-production.cfcdn.mux.com/3nSh7u21lschuZguvpzAVM8bIWvW8GQ402vdO0201pm3pPyYyM1rRnfh1Db7qkODqef9zvJ69I00CkXQ8fH6zvIH8eeUVjCfCvZm/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1638709200&live=1&skid=default&signature=NjFhY2I3ZDBfNzE4MzIxZjY5Y2MxYjUxZjdmZGZlYjZkYzYwOTk2M2FlMjQyZWE0N2ZiYzI4NTJiMTY1MjRiMjRjMTdjN2NhNA==
