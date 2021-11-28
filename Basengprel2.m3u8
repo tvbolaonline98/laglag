@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d2fyjjqgw0dpkr.cloudfront.net/out/v1/832b88cdea3d4704aef60e79ed0fbeed/index_2.m3u8
+https://llhls-live.akamaized.net/exp=1638120238~acl=%2F5632a07e-e91b-4ed0-a642-c1fc2e051298_llhls%2F%2A~hmac=57080955a23998618597eb869d9448bf65d387e81628643419a97d4a21e8e201/5632a07e-e91b-4ed0-a642-c1fc2e051298_llhls/hls.m3u8?min_seconds=30
