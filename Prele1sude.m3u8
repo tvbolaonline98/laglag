@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d3ce2fgf7tmunm.cloudfront.net/out/v1/594775f3d282425fad8cc9a7a744b797/index_4.m3u8
+https://live.vimeocdn.com/1638120197-0xcfcc620fd9c57ab5d0369280fefd3d9f2c3532e9/cec72f55-9c2f-436d-905f-bbb9f3d522c3/chunklist_b2056000.m3u8
