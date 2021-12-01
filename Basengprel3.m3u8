@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://pull.zgtae.com/sm/10021_428459_lud.m3u8?txSecret=cb747d2c7d6a2b925f831d339bdd7e35&txTime=61a4f988
+http://185.53.89.183/hls/suv3.m3u8
