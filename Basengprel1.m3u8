@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://manifest-gce-us-east4-production.fastly.mux.com/sZjgHAwC3L3GwIg34voUZ7pOdVhMii7tjowRphOx4jyi00iHJ02kMQCwrLkDQim007NJaSolQhr7fPPexL02V00cD1tJucp5023X58AVLAG6f00V5A/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1639321200&live=1&skid=default&signature=NjFiNjBlNzBfYmU5MWYzNmNiNDg4Njg4NTMyN2Q5ZWFmY2QwOTI0NTQ4NmY4Yzc0Y2I4OTliYzYzNjRjZDMxZmJkYzdkNjlhOA==
+https://bf.thcydzsw.com/live/fulante.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://bf.thcydzsw.com/live/fulante.m3u8
