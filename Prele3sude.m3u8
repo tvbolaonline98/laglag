@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://163.172.50.58:8090/Calcio/5/index.m3u8
+https://d78skfge4ctwu.cloudfront.net/out/v1/54d3d5d696754ebfbd0faab1a1130f5b/index_3.m3u8?from=other&vsid=37f1da070ef9122b123dbd7921dfb093d2e667829c6axWEBx0005x1638712133&adsid=dbd9633baec5de1e4f6a5e26547fef3b7b00078ade83xWEBx0005x1638712133&session_data=1&preview=1&t=1638712138922
