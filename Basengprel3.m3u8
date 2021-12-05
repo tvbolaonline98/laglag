@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d385rn79iu063n.cloudfront.net/hls/manutd/chunks.m3u8
+https://hls.czsjl.cn/live/bukeshuoqiu.m3u8?t=61acea3c&k=cd9eb94e9a91caf6edce93b963bd4447
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 http://hls.luziedu.com/livestream/ch30/playlist.m3u8?t=1638713683&a=51.81.223.243&u=3f8fe61ae64e95fc1a87194b25871cb4&k=746938bd9eb6fc8abdb2e6602d35ad23
