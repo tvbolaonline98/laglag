@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bf.thcydzsw.com/live/xiaozhu.m3u8
+http://hls.luziedu.com/livestream/ch35/playlist.m3u8?t=1638713580&a=114.10.11.251&u=b3b244e110681faf4550ef0898e7a845&k=fa717a8bd92d84bbef81efb2b70fbced
