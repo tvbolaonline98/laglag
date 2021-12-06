@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://vkvsd51.mycdn.me/hls/1843454085669.m3u8/sig/5rmpmqv6a6c/srcIp/51.81.223.198/expires/1639186866415/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3578309913381/id/1843454085669/video.m3u8?p
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
