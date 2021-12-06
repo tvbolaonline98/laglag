@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://edge-5.volume.com/live-hls/amlst:abergame-sd-547f0f616bea554ae3d5d756f758a7d041fe5e2208ab7940ece818071233b787_trns_h264/chunklist_w1079919927_b448000_t64RlBTOjMwLjA=.m3u8
+http://cdn1.cyclingnews.live/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIxIDc6MzMKOjMzCiBQTSZoYXNoX3ZhbHVlPTFKc2pMOXRoT2VrRmxEN2NIN1NIOGc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTEwOC4xNjIuMjQ1LjIwNyZzdHJtX2xlbj00
