@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://95-213-224-188.livesports24.online/setantaplusukr.m3u8
+http://hls.luziedu.com/livestream/ch7/playlist.m3u8?t=1639233729&a=128.14.197.63&u=4a4c24fd58cf56cf2f5f2c926f0a19bc&k=096592f6830c9f4560a1ac56998b971c
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch29/playlist.m3u8?t=1638712723&a=114.10.11.251&u=75fc5623393b07ef00a60b161c0b3c80&k=fe843a433accf7eb2bd043e2dde2e426
+link
