@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bf.thcydzsw.com/live/luocheng.m3u8
+http://hls.luziedu.com/livestream/ch3/playlist.m3u8?t=1639231148&a=51.81.223.208&u=8ff036eb08c69b3c490108870bb0b966&k=2e02e65b9f884387a8adbd62346518ea
