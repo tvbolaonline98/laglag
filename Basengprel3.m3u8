@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d24jjmo1mnvcs0.cloudfront.net/hls/nbcsn/chunks.m3u8
+https://s.shidurlive.com/app/18867/chunklist.m3u8?h=idtbXdnzhcfLKFJ0D8ekvg&e=1639270548&uid=a4404bb833445d2b22ae77ae727f7b85
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch6/playlist.m3u8?t=1639233929&a=128.14.197.63&u=0b38bafd06ff47b228765a58d7f8f3be&k=e7e1491c14db2ba90efd4376efa1872e
+link
