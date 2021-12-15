@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch3/playlist.m3u8?t=1639509219&a=114.10.8.17&u=39c1860231e0057c943eccc3e43a9d22&k=e41c3705a962dd3336aaef47a7ee8acb
+http://cdn3.cyclingnews.live/hls/W2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMSA1OjExCjoxMwogUE0maGFzaF92YWx1ZT1rTUxrOEhEb080UUlqeGJCZVNlMjdBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguMTYyLjI0NS4yNTMmc3RybV9sZW49NA==
