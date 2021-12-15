@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://cdn2.cyclingnews.live/hls/P1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMSA3OjA4CjoyOAogUE0maGFzaF92YWx1ZT1vN1ZVd0dsOWFuR1lpOFI5RGRSZ3hRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguMTYyLjI0Ni4zNCZzdHJtX2xlbj00
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_hls_media=1&_cdn_meta=userID%3D1829852807%2CdeviceID%3D187806519&_cdn_session=117524987&_cdn_timestamp=1639603423&_cdn_token=a03bab3bd956138bbb770ad18d06c7ed8ca7a20d
