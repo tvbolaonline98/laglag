@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://edge-4.volume.com/live-edge/amlst:sdfdsfsdfsdfdf-sd-7bed6e502160a1d3df121843b5198b4d609623d6a0bd3494b54421647d3ffa22_trns_h264/chunklist_w1815720249_b5128000_t64RlBTOjMwLjA=.m3u8
+https://edge-11.volume.com/live-hls/amlst:danielmorend-sd-66ea92f98e1714004960cc720627ba5bc3b79f7b7da5d81890f8d8d0f506ee67_trns_h264/chunklist_w1635169209_b1848000_t64RlBTOjMwLjA=.m3u8
