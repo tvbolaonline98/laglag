@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dy3j9qentq0g5.cloudfront.net/stream/MjE1NA==/1080p.m3u8
+http://hls.luziedu.com/livestream/ch26/playlist.m3u8?t=1639837870&a=114.10.16.102&u=860ccc5bf7ad7d00255eaabd188bb78c&k=19aa7a4f41c8cf601659ef1fadb7820c
