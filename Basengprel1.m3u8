@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/JPdSTM5E9fAY0kXngm7WWst2mnYbvP52Slne2lOqgrGRImZCSkf5ukozLU1rzAkSRODyY-DdwYNphgZOC46rCw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-link
+http://cdn2.cyclingnews.live/hls/P2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMSAyOjQ4Cjo1MAogUE0maGFzaF92YWx1ZT1KNXFOVVNXQXdBU2tpaXhmaEFkZDdRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguMTYyLjI0NS40NSZzdHJtX2xlbj00
