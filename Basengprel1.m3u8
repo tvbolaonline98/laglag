@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://wowzaprodhd27-lh.akamaihd.net/i/a836e61b_1@410542/index_2150000_av-p.m3u8?sd=10&rebase=on
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/JPdSTM5E9fAY0kXngm7WWst2mnYbvP52Slne2lOqgrGRImZCSkf5ukozLU1rzAkSRODyY-DdwYNphgZOC46rCw/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 link
