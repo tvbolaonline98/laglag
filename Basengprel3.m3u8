@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d2l599bsdge2ow.cloudfront.net/stream/MjI3OA==/1080p.m3u8
+https://s.shidurlive.com/app/18867/chunklist.m3u8?h=AK9gW8Dj34j7tkvw7Lul9Q&e=1640566620&uid=0406e9ef3fde7243550c703b172ea2c5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 http://hls.luziedu.com/livestream/ch24/playlist.m3u8?t=1640529593&a=114.10.21.16&u=d2dd0ef90aab5db76ff5e4024f9f8862&k=73e6762c257d43bb5013ea03d8d0527d
