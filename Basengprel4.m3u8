@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://standard-pull.tjgtktt.cn/sm/10021_428408_lud.m3u8?auth_key=1640710546-0-0-00d9f1a74a8603f6e60927a5070e0d81
+https://wowzaprodhd91-lh.akamaihd.net/i/0e7b71ce_1@351431/index_2150000_av-p.m3u8?sd=10&rebase=on
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 http://hls.luziedu.com/livestream/ch23/playlist.m3u8?t=1640529533&a=114.10.21.16&u=e26e48472ba4da66e4837d883cd625e9&k=2dac6156eed4df03cafda486d6733e26
