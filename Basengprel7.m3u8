@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://play.gudongyz.com/rrty/340989324_1640634210.m3u8?txSecret=9082ccd0b393546403384a616f5aaed5&txTime=61CA1762
+http://hls.luziedu.com/livestream/ch22/playlist.m3u8?t=1640700809&a=114.10.17.181&u=f527185e10ef7ff2f447dc71224e0000&k=78352b8f0d2ba4937fc4e21821c09434
