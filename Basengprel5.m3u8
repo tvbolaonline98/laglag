@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch35/playlist.m3u8?t=1640802711&a=114.10.21.42&u=643db9be8246001332bde4819f485255&k=dbe6596100fecc377f533227cbd2e932
+http://cro.hockeynews.club/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAyMSA3OjMzOjIzIFBNJmhhc2hfdmFsdWU9b3pETDFNUVFWSVZSMGJTbitmcWFLQT09JnZhbGlkbWludXRlcz03MjAmaWQ9NTEuODEuMjIwLjkwJnN0cm1fbGVuPTU=
