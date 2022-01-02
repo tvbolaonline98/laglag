@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://s.shidurlive.com/app/18867/chunklist.m3u8?h=4qGCFveRPT7fQb9GjpDdJA&e=1641158537&uid=e33c1ff1a40f2b321a993cbf39526acd
+http://46.249.32.53:81/fastocloud/hls/2/61ca2eb5f2ff72da28ec4e82/152/master.m3u8
