@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live-ak.vimeocdn.com/exp=1641932992~acl=%2F0a892881-b211-4ee0-a0be-e7203b174f30%2F%2A~hmac=5fd93361ee20498ff46d2318cd685aa1e723dc92fd7bb60feb247eb43dc06a9f/0a892881-b211-4ee0-a0be-e7203b174f30/chunklist_b3256000.m3u8?max_segments=10&min_seconds=30
+http://livehls.ltjuq.top/ofmatch/HD157596.m3u8?auth_key=1642190737-c057f7dad42f41995ea6dc50e4504080-0-14bd26e98728bfb342f8b33573e5ff6d
