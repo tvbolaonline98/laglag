@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://akamai2-br.cdn.booyah.live/hls/1500020/105938777.m3u8
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/JKFOZ265dyiLMep961ADoJfX5hCbtGMXp9JwFQ_fWqAFOewsFypcbKjQT3L0QRBA1kaJoUjYGPMiLtAt6MwTWA/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
