@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://pull.xwwql.com/live/1111828426550810/playlist.m3u8?wsSecret=3c7911a68b54376da0a9101a766974ae&wsABSTime=61e21e68&wsSession=a6ace16f6eee5dd2c372edc4-164219081481763&wsIPSercert=2aa3434e209a0a15aa93e3b6501f4d40&wsMonitor=0
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/i3L8l2K170wNtuhb5RRq51Ej7WeVEBBL5ABPlOAm3IlruYLngzrt8kBzSvGYWUbZQZxE7TVMzP6F4iPC4iCd7g/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
