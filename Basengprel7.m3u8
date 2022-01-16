@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://s.shidurlive.com/app/18867/chunklist.m3u8?h=mB2H6HTiXIquaQIe6ych9Q&e=1642294282&uid=054b4b8018fb87b39144dd9e13d8a3ee
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/kZYHlYxvtyRMEZayqsR9u_nOQWoh-KiA7rplmit5rJ6M2fnfHn-jufldgyFuQWzApdVY4HQwh8g9-EvVtt15cA/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
