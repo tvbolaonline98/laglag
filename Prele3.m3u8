@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/P_ViPh3Dx2iv3A8CoewWX6fe1o5g8ZlKpgG2CqqzJANVhqx9PxlSWBE-GEXPu5-zji1T4uuFGMD-xsnH-D2XIg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+http://hls.luziedu.com/livestream/ch7/playlist.m3u8?t=1642533612&a=114.10.10.30&u=00af04873809c8784aab02936577fb3c&k=dd57353f37fba2a2493e72f629c4e3c6
