@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://163.172.50.58:8090/Calcio/1/index.m3u8
+https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_480p.m3u8?session_id=SwfyyvJMHAt&app_ver=10101&auth_id=51589068_com.global.brasiltvweb&client_ip=2804:3d28:2:9f:d545:3888:1a16:a4ac&user_id=51589068&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=0879307e&expired=1642885864&token=1A416EBE180D6BBB5A5A68760904C534&media_code=m3_ScQBL06LuJftF_480p
