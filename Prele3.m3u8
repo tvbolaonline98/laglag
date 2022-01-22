@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://dydmzvu3hxa3i.cloudfront.net/stream/MjU4MQ==/1080p.m3u8
+http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
