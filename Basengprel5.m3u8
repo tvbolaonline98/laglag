@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://cdn2.cyclingnews.live/hls/P2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIyIDE6NTkKOjMyCiBQTSZoYXNoX3ZhbHVlPWx0Z2J5RFZtclorN2FJUlpuM0hvVmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC45Mi4yNDUmc3RybV9sZW49NA==
+https://live01-ali.myeogm.com/live/gutiyu4_hd.m3u8?auth_key=1642881900-1b3419f7fd2f46ddba9ce6a311c25f21-0-49253bd88afa7c3f6f58f4a8afed042d
