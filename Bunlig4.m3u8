@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live01-ali.myeogm.com/live/tengxuntiyu3_hd.m3u8?auth_key=1642964700-0a88d123504d46fa8b36836e9903d135-0-1f873b60bb11a05fdd027e6542319934
+http://hls.luziedu.com/livestream/ch5/playlist.m3u8?t=1644069951&a=114.10.6.163&u=e1ecce3a4ab04bedf13dd4c905ae3e31&k=7c310e7897e31b3ff44f2c2805c551d0
