@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live-gewc1.streaming.media.azure.net/22a753bb-7e96-4c21-a37a-124878dabed6/fcd5358f-cb4f-4002-aace-cb4a77f14bdc.ism/QualityLevels(200000)/Manifest(video,format=m3u8-aapl)
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/T3n2HaM1VT9AaoVmD6tTmyeznABOlj-rBoV_oGTIffP6jUM7SDZRW56HcN76C330XzPTWHtAfkvzw_LXlaQChQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
