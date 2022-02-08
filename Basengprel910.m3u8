@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://c6aa9f0d7700.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.453257059822.channel.Y5ZR0TNOQI2z.m3u8
+http://hls.luziedu.com/livestream/ch33/playlist.m3u8?t=1644348021&a=114.10.17.251&u=a4cd071ea06dc8b964efca39d32fa469&k=4a2aa6a7f70263d73e4582a2ab2c12a8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 link
