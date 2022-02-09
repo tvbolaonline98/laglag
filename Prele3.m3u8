@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/Rz-U9UMhHFgBMF8UPbVACyNDPjrYxIb02-xqbewgDEaFPiTyPulfju_D7Vaf-L2MQRAqp6xYV6eDPXwaVOkkBA/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+https://live01-ali.myeogm.com/live/gutiyu.m3u8?auth_key=1644443400-26939b7193fb47588b595d5ba233c05f-0-89ec6cfeae36737d1c4f36c597e1ff54
