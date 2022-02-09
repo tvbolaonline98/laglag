@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live01-ali.myeogm.com/live/gutiyu2.m3u8?auth_key=1644357000-3b90aa5a351547139bc33435474d386a-0-3c58c601cd5aa4bf1079beb519646d91
+http://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjIgNjo0NAo6MTYKIFBNJmhhc2hfdmFsdWU9elZNWEFsNllFMkFTLzJjRnF2bGhsdz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjE0Ny4xNjkmc3RybV9sZW49NA==
