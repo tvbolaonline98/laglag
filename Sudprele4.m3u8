@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://163.172.50.58:8090/Calcio/1/index.m3u8
+http://hls.luziedu.com/livestream/ch12/playlist.m3u8?t=1644433616&a=114.10.17.203&u=bb0a023e8c4a5c57435141ccbf53d559&k=fade3b2fa6d6b45a55eea470a293b06c
 
