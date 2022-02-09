@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/FVfq685fbDDF8_E6oYLxqiuifW1iyLKOlVgiGKz9tMHGhTxHzCi_XtzSZFkn9pgnYSc64tYMNnyVG4qzQ_Tmpg/non_transcode/us-west-2/periscope-replay-direct-prod-us-east-1-public/dynamic_highlatency.m3u8?type=live
+http://cdn2.cyclingnews.live/hls/P2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjIgNjo0NQo6MDgKIFBNJmhhc2hfdmFsdWU9c3oyYTF4WHpCOTVxclhzOEVROTUrQT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjkyLjE4OSZzdHJtX2xlbj00
