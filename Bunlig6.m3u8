@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bf.chendasheng.com/live/63621382_1644070341.m3u8
+http://hls.luziedu.com/livestream/ch32/playlist.m3u8?t=1644675166&a=114.10.18.23&u=032cd37e908c054332b5c32928604d2f&k=2090b471d0d23170c9a4a0589ed0d1ea
