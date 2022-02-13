@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIyIDc6MDgKOjAzCiBQTSZoYXNoX3ZhbHVlPXJ4eitjNDlIQ2lTMDBXTnlYNUh4VUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC45Mi4xODkmc3RybV9sZW49NA==
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/S22UEj6odIvu6dT0L3L8Cz3rcUH0EbIezXIPWs_HZ0htHbOR8qVJrw41Y7SsQUTAibQU74MlEhudBQiATm1zlg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
