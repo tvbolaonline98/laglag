@@ -2,8 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://play.brasiltvweb.com/v3/youshi/m2_AkF7moyJqBpWr5L3ctZXu8D6_480p.m3u8?session_id=GCtVitJfHNbf&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=2804:5484:a:b6e0:b03b:7231:2f79:efec&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=47ee8c47&expired=1644766155&token=C98E41A5FF0D2F3470C520B574AB660B&media_code=m2_AkF7moyJqBpWr5L3ctZXu8D6_264
+https://live01-ali.myeogm.com/live/gutiyu5.m3u8?auth_key=1645290300-5cab88ed87ea4ceaa0244006fe00a0fe-0-063d9d3bb4a05361e53b7b5f6b06c7c0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-(LINK)
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
 (LINK)
