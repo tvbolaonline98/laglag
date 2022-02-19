@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bf.syjgqc.com/live/63621382_1645279754.m3u8
+http://hls.luziedu.com/livestream/ch28/playlist.m3u8?t=1645290911&a=114.10.20.92&u=011f9a60268bbfbf268ff69f24dc5bc8&k=9818082d09a02a69cbbe08de0726064c
