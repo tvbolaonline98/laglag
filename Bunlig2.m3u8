@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch30/playlist.m3u8?t=1645364669&a=114.10.20.92&u=1b3905625931aa6f8a7762e201a78f44&k=138328b42d995ee3e160bbb148f3f162
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/FUS-a2REHT0OTV_PUACWbNUEZKI18h0GvcxOJdE_E7dn7mb19Std9SPmPhy_AHyQMcMW-5h5atkkix715srxqA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
