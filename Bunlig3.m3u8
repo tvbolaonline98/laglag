@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://pull.jiusuitv.com/live/2638c19f571e251e61cb8dd3612f26d5ecf_hd.m3u8?auth_key=1672416000-88-0-f22e83968534ac6f43f3d8ecc3db81dd
+http://hls.luziedu.com/livestream/ch12/playlist.m3u8?t=1645978035&a=114.10.22.151&u=fa4d40166f81a1cd885f84a316c295ff&k=83d9f828d0ab5b23386c488cc6ca3545
