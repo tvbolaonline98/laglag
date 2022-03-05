@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://play.bear0625.cn/tianxiatv/stream-990f35441f7b40118f2b54782cd0f843.m3u8
+http://hls.luziedu.com/livestream/ch6/playlist.m3u8?t=1646488217&a=114.10.20.4&u=30207e997115213103ad66ce17fe0155&k=3ab19542535e42b683d735a89f6933b1
