@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://play.bear0625.cn/tianxiatv/stream-ae05db276aad4df0842a87184cd1b439.m3u8
+https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_480p.m3u8?auth_id=42180508_com.global.brasiltvweb&client_ip=2804:3d28:2:32e:9166:7542:7d45:b29d&session_id=WGdpANScXv4S&dev_limit=1&app_id=com.global.brasiltvweb&user_id=42180508&app_ver=10101&dev_id=ef3c3686&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&main_addr=https://play.brasiltvweb.com/v3/youshi/&expired=1646504199&token=55F78F074FF32ACDF748052B04C73206&media_code=m3_ScQBL06LuJftF_264
