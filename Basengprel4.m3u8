@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_264.m3u8?user_id=65021706&auth_id=65021706_com.global.brasiltvweb&dev_limit=1&client_ip=2804:5484:a:b6e0:183c:c2ef:75cf:58fc&app_ver=10101&session_id=g4I0aR9GRxU3&app_id=com.global.brasiltvweb&rst_status=0&main_addr=https://play.brasiltvweb.com/v3/youshi/&dev_id=a1156cde&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1646586198&token=FAC3BE969875473A183164B2E452A9A6&media_code=m3_ScQBL06LuJftF_264
+http://hls.luziedu.com/livestream/ch14/playlist.m3u8?t=1646582351&a=114.10.8.246&u=9738a70a7409bcd67d7ca62ef3127e9c&k=70477fb6a0d138822a821fbca9de0e22
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 ll
