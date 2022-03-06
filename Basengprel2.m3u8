@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may91/chunklist.m3u8
+http://hls.luziedu.com/livestream/ch35/playlist.m3u8?t=1646574077&a=114.10.8.246&u=5884ddba5a8cd27ff2c628c597dbc8d1&k=bbc328963e9c3cc47c6f9fb783685237
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 ll
