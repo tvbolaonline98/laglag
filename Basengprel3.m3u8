@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://play.szbbnrt.com/rrty/hd-en-1-3559833.m3u8?txSecret=0303695babe68324d44d43c5adf18752&txTime=6224C183
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/abYGoCHgETUe88WTB1OMqF8DU6VVzjZP6rv11zMFgQvjMuyOweRlQBnX4BsT7BHhdFzSeTywfA1-j9fuvOUJKg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 link
