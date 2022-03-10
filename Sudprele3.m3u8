@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live01-ali.myeogm.com/live/Eleven_Sports1tai.m3u8?auth_key=1646499900-1b332a0383694fbcb7e2bef9d8ef68a5-0-89534016465376ef7cb5d16ea2da1ec6
+http://hls.luziedu.com/livestream/ch3/playlist.m3u8?t=1646939114&a=114.10.7.62&u=b30e911c75701ca425277054fe9dab6d&k=36e3a4ea78c5301c42b6a35bca8ab3f2
