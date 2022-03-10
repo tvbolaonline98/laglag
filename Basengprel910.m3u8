@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live01-ali.myeogm.com/live/gutiyu8.m3u8?auth_key=1646949000-27742608e9eb47de99d7c1202ce7d500-0-a7cd970bdd42a7da22dfbb40d926d0c4
+http://play.bear0625.cn/tianxiatv/stream-a2601ecc382647c788359e1ea297dbe7.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-lll
+https://live01-ali.myeogm.com/live/gutiyu8.m3u8?auth_key=1646949000-27742608e9eb47de99d7c1202ce7d500-0-a7cd970bdd42a7da22dfbb40d926d0c4
