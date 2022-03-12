@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch20/playlist.m3u8?t=1647087345&a=114.10.10.25&u=4b7550ecbc5257196969fc5064867884&k=dc5db9bb60e6bd3e40d07b25f0e643ff
+https://live01-ali.myeogm.com/live/gutiyu.m3u8?auth_key=1647095700-aaf5e83829234f698ef96a07beadc21a-0-338009e8d7275ae3d61d5dbd40b79562
