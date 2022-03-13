@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch34/playlist.m3u8?t=1647177787&a=114.10.17.215&u=9dedf1e88ade1831b57028f520548ecf&k=580f82dd4b378873f48c9df65f33cbda
+https://hll.hnzzdf.com.cn/live/H118483.m3u8?txSecret=3f1445805b92982518ba53ccd1bf6175&txTime=622F4577&_s=stream
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-ll
+http://hls.luziedu.com/livestream/ch34/playlist.m3u8?t=1647177787&a=114.10.17.215&u=9dedf1e88ade1831b57028f520548ecf&k=580f82dd4b378873f48c9df65f33cbda
