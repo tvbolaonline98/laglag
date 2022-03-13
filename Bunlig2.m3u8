@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d17lu2syx7ax41.cloudfront.net/live/streamhd5776.m3u8?Expires=1647140700&Signature=hH0FPr9reAP6SYGA0kqTog4IaueA2DYgY9mv35qjPo-W2FfvXnoy0JOxFbMWUJYZMpsBiR8ur9x5qwqlO-bhwx6~-x0yZpGjiSfN-~DhBbULeQ5TkWS38qC0QtUcjZy307QvwNmlKJeuOT0ADFp-miPGfP3Hl49m5A3lEbbWsFkqI7QgqvMyjykzFRWMlQ99cPfywtM2jOagu3RWobOsi3ABDcwvZVopD2IdqcMxJCgxjeyFjA1KjZ8ePF5k6tmmyApkZHEoFLbO4YeZhIQhtBHzvMn~otg2D6vQiBO9qyG5yutwS6kxHsS9bZLKPQZ78mIVV46Qa0lFvyQ7T98rBg__&Key-Pair-Id=K1SXOWNSQGJT65
+http://hls.luziedu.com/livestream/ch4/playlist.m3u8?t=1647179626&a=114.10.17.215&u=e41f97164a152254b2c83a58175b40db&k=2cb349f4c4708c09b100d73d7771ab18
