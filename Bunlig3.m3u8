@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video.zettao.com/org/45512800/playlist.m3u8?time=1647199715&auth_token=8ab7a6110233d1980c6dce6dafd8bafa&wsSession=6d72eb755f19944b0ecdf481-164718891596855&wsIPSercert=24d12b3de3bd64fd6b03f525e025ecf9&wsMonitor=0
+http://hls.luziedu.com/livestream/ch20/playlist.m3u8?t=1647696777&a=114.10.7.207&u=f1da1c0e95eb23503cde85212f5cc5b6&k=943e44924cb680865c46e7762ba93106
