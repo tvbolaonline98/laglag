@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/RVHGOeN2dm8L4ouryD1xRaUfCZctSySMVW95DKDEHxXj6aNxwc9h8LfqSkbO1bFvUc4fMwPyYtssLDqYMm1GqQ/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
+https://live01-ali.myeogm.com/live/tengxuntiyu9.m3u8?auth_key=1647707700-aff8e6bd1aca4675b7a094b536d0380b-0-a07b1677b4d8b46ace59d7db8a5ce347
