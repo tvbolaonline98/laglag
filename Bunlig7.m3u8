@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch34/playlist.m3u8?t=1647093643&a=114.10.10.25&u=de19270093db89df798fec09bffac8ca&k=0140881dad4f94d9685404dc4ef3a0d3
