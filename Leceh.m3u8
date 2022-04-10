@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/RyNXZlt5KUD98hIXMb6Tvk1pjkUGSWLfQoHrO_uZxhBS8DwIufyvqoGayIT6MsOYFVtJ0jD-u_GV-GBjM8TvBQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
+https://acdn.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1645859164-0-0-e297e18045e4ff30ab55d343f14b8f42
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 lklk
