@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/apVz_mwQ1XyDkmGKVZuiL7doFALH0jSvea2yb8Zfn-ZuEGriZoZkqdbU_bBTW5WmFRIC3GCMQMjda9zXvd4zLg/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+https://live-ak.vimeocdn.com/exp=1650395254~acl=%2F5be840fd-3c3c-4d18-83e9-2015ad5fe413%2F%2A~hmac=6f91d4764c458e7bd70adff3e6bc2b2ef07efa0d9dad2d4d5090525d48f8651e/5be840fd-3c3c-4d18-83e9-2015ad5fe413/chunklist_b728000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 lkl
