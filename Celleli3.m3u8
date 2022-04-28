@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-lkk
+https://video2.kgkco.com/org/48830466/playlist.m3u8?time=1651180191&auth_token=b8eb594d3504dc96320f69a3fc777bcf&wsSession=3a20daaf71437c79f6002cc6-165116940087257&wsIPSercert=8a621883b0f8cec90a1299d10930778e&wsMonitor=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/Wv42xvR8cLn4MQc0q36TFlROCxqLbdLjdMLB30yRh3dGtqu-0jftlCXBA4qmhJNGYmfEJEyHzoDkNlAZXOr33A/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
