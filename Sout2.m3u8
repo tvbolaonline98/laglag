@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video2.kgkco.com/org/48527370/playlist.m3u8?time=1651336019&auth_token=0fcb04f20c955cf3b5b563b1fbfe3eb5&wsSession=3a20daaf71437c79f6002cc6-165132522866864&wsIPSercert=854de511fadfdd87e463300e3efab16f&wsMonitor=0
+lk
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch19/playlist.m3u8?t=1651324694&a=114.10.18.230&u=394897c23ec7ab011a1bbcf50a8eabdd&k=1ff470ebd792b55e09f34356c69a7309
+https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/4BaSY5CKDdvyoqNuKUimHy0B0oVkRqHlLiyE9RWU1LeTPRgGVtJ7dqJoPYlViVwK6rhvkFbORcBMXDzXOSmiDA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
