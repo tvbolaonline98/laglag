@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/9Z1HY_v1JDwkHZsxOoCK6VD48PcnCEeSaAu6UghV5v_wbiRDB0HKw4XyIQa2z1Z0nGBDsWonYa0FmCGnPzXkCw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://rmue2hq1pcliv.vcdn.cloud/a253641e2978824b072f200f3e1fe144/1652662442220/en7hf6r/en7hf6r@720p.m3u8
+https://venus.meta-scores.com/08aed987ac/08aed987ac@720p.m3u8
