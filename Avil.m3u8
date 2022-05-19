@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UrMVSQw7mGtSx4kq5psWaznNcSAzJSNlTGqfzYJUKG0L46QcOtjyphNnesiDckBmrJKuccMlPshzEph7j7MTyg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/GEgobqmYctgsdEEMkiYe49DqEyu4vOe7qhvSSvULqOuiyHMNk_OpUjhTbRtfgRbv-Du_3da-VGeFVOOiQvk77Q/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://pull.zygmsg.com/leisu/1111838172606160.m3u8?auth_key=1652636244-0-0-09b6f41f40886b74031eb66e8f80bddc
+lk
