@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/1DazzzjWs2TcuGKJXN1Dk27wjE-fjm7RjYUIX23-zTknKPTRUHaUG1vFeBForlGgCjfjiE6AVfMcUIq7bzzTkQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_dynamic_highlatency.m3u8?type=live
+http://ranapk.cf/cdn/TG@Ranapk73-125/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 lk
