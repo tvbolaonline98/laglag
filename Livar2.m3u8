@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1658433858~acl=/hls-p/ingest_7916_*/*~hmac=54c0e661731f23abf4cd321d930bc24dbb99f4c52b22cd66cc1b4f39341e3834/hls-p/ingest_7916_720p/index.m3u8
