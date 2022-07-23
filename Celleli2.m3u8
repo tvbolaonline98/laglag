@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://402173194.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=-EIAALurd6ULsgMX&secondToken=secondToken%3AwTFX3XcMV8iYOjnBLCi7OMv4EP8&sign=c6962fb68b7879a4f9a00dd1cea166d8&streamid=tuantuan3-com%3Atuantuan3-com%2Fhd-en-1-3742331%40360p&t=62d8b1b4&v3=1
+https://web-livecdn.fptplay.net/hdevent/fsport04_hls.smil/chunklist_b1800000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://97192c78be.vws.vegacdn.vn/live/_definst_/stream_1_48485@8879/chunklist.m3u8
+l
