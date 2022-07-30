@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video2.kgkco.com/org/54175411/playlist.m3u8?time=1658373651&auth_token=624f87d28f116678b287bcff4919799b&wsSession=78ad2f5be2fcac0c94d93839-165836285223952&wsIPSercert=2311c05dadade6acf5d1930d05d6aa10&wsMonitor=0
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://hls1.yuanzhi.org.cn/live/L7904740.m3u8?txSecret=e67be7165b21bca622c3dad840d3d66a&txTime=62D96369&_s=stream
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
