@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://venus.meta-scores.com/04d9f6eac9/04d9f6eac9@720p.m3u8
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/_kbeYTEGvhEVNG2ZLof2g-EspjN2cRyseg0FytqsqnGhdCDdGjVheMXf-KCeSQsX8Mk7aL60G5hVjb8FfuWccA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+https://craff23.s.llnwi.net/live/stream6924.m3u8?Expires=1659321300&Signature=cflJwy1j3e25sRUtMQSu80UjdXhk-ojfZgMS4jn0dc6mBHmwA6rfSNj4YQKaHWn8rHBtpoXot51VvX1U6ouQXoWzGnWN7dub6YL42159friHQyd16vni25xFKJZXZ5T~0Xqi195isnotLcizv~tWd0j7D0AxqSs1g4jmyGEy-1trIiJyVrB3IOc3CftxBAXZt8YO1BiHN1iUsy88zwjRWQyXSMt5lTc-FNTXRquKFPkJ7uRTNNnWcHJocmefTJHX7L15EuDHSLywBInx5hTUgdPY0ttRi53ssl-2bYpSj8PtbZ6NXLCULXClIj6ZcEbgASs847fDMENATfW4ocORew__&Key-Pair-Id=K1SXOWNSQGJT65
