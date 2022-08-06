@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/DyAX8J6ZD8BiSqI68aT-SonBs06gxaoDtozxQkIXfSitzd4kNYtviDshkbKUHSrbR39dMo_PU1Swm5xWj-W52A/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://venus.meta-scores.com/08aed987ac/08aed987ac@720p.m3u8
+https://video2.kgkco.com/org/52198836/playlist.m3u8?time=1659804867&auth_token=c49ef1167abe73e2e3abe38722c26b55&wsSession=8ca248b31dd704341dea6d95-165979406949823&wsIPSercert=9310c3e85be6491d4b88064f9e793a98&wsMonitor=0
