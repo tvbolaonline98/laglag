@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video2.kgkco.com/org/52198736/playlist.m3u8?time=1659804281&auth_token=836603a051268fad42123e6a5921d10a&wsSession=1d605f8f18965a0d02c640bc-165979348999580&wsIPSercert=9310c3e85be6491d4b88064f9e793a98&wsMonitor=0
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/1iQLai6MrGI3WKPydZh-LLnqFm6Rh0Fodte45tN6RZUAW1-KXlLqngwEO1rn8xVrAN-9RAWHSYDRty5xN7ulGg/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://livehls.ltjuq.top/ofmatch/6403850.m3u8?auth_key=1657970714-ee9bc25a14cadc147fb5318bb5d9579a-0-a07d6264cc216f0a833e49edcf1536f6
+https://video2.kgkco.com/org/52198736/playlist.m3u8?time=1659804281&auth_token=836603a051268fad42123e6a5921d10a&wsSession=1d605f8f18965a0d02c640bc-165979348999580&wsIPSercert=9310c3e85be6491d4b88064f9e793a98&wsMonitor=0
