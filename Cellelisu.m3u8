@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/FDaRPbswnjUaZXDvj1wmZKINGYyBsqZ-xywtCGP-A6fBfHtswOVB5fkwpUnDCCzqBIN3u2F_QzHoU_Vq8SDGJQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tm_dynamic_highlatency.m3u8?type=liveyEo-ozF6q9X3Z795Lt6USaGKzIKaP9nhoGP3pJWrIv-B3WNWoHzXZvgSt8mv0gDjfuy5Pcft3jqUQ
+https://live-global-cdn-v02.afreecatv.com/live-stm-17/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.gNjILmb8hcTwxTDBvFkaE6dkJPGANhyEo-ozF6q9X3Z795Lt6USaGKzIKaP9nhoGP3pJWrIv-B3WNWoHzXZvgSt8mv0gDjfuy5Pcft3jqUQ
