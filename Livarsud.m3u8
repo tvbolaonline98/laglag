@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/DyAX8J6ZD8BiSqI68aT-SonBs06gxaoDtozxQkIXfSitzd4kNYtviDshkbKUHSrbR39dMo_PU1Swm5xWj-W52A/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://vkvsd6.mycdn.me/hls/2759358155512.m3u8/sig/CodimuiSiq4/expires/1659870809430/srcIp/114.10.7.188/clientType/13/srcAg/CHROME_ANDROID/mid/3890119584760/2759358155512_low/index.m3u8?p
+l
