@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may111/chunklist.m3u8
+https://video2.kgkco.com/org/52198728/playlist.m3u8?time=1659804332&auth_token=69708126b71797661db6331647c08f2e&wsSession=8ca248b31dd704341dea6d95-165979354280360&wsIPSercert=9310c3e85be6491d4b88064f9e793a98&wsMonitor=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may111/chunklist.m3u8
