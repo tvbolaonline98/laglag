@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/gPrlargpNTNA7iAPPKBMF18yUG7vFgqSoWwc9F6prV_DYGivW4OSO1ImXy4FLfbfNk1mxe5e0g7j82H1eKAHrQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live
+http://pull.zygmsg.com/leisu/1117712573216084.m3u8?auth_key=1660424325-0-0-8eb7e44921c1557a72c694ae7fadfdfb
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://live.t-mart.shop/hls/src_higher/index.m3u8
+http://pull.zygmsg.com/leisu/1117712573216084.m3u8?auth_key=1660424325-0-0-8eb7e44921c1557a72c694ae7fadfdfb
