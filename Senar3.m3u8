@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://vsd155.mycdn.me/hls/2932099385937.m3u8/sig/fqpndHOQHgA/expires/1660488002631/srcIp/114.10.17.162/clientType/0/srcAg/CHROME_ANDROID/mid/4766567374417/2932099385937_high/index.m3u8?p
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/L3JPrgSuipJgUwP5Grupf7owbz6RgvbQwUE4iaZpahpVJvE8TNMqtbZZhGj2-_ucqC9xHLO1LyKF-w6fuQnaYA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tm_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://bf2.feisuzb.cn/live/sd-1-3746906.m3u8?txSecret=9b5288662eb5ba873643b1e47ab307a3&txTime=62f7afca
