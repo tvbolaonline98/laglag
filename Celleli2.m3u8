@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-l
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/LvfU0u-zvDH-MflAU2rJ-YH50wqEw9VbJKs8Wqo9EZ-x-P6zcDxWl68o-nimYIi0NNRihroD9Qe8e3AVwUZCig/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tm_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://craff23.s.llnwi.net/live/streamcnhd3984.m3u8?Expires=1659837900&Signature=Pj0uaV5RDOVPo~YrH15vEQj0pPfl9HyMb3Q~YkSsE2PIXDFSTOEwvc7qbfm8T4OnqJjjhnDFbPwnyIeakU2AKmDwb4gPSxpiOetrT4NXRDRK0y56dJogdkFlJ1u6DzwKkhmbKxUVnWtHsXOioDY3qfnOosNBAtQq2hO4yiZ95P2AjrrPBJWCCMXXjs7woOlDqJnv5Mt15~wVGHPHQHP~k~mWpa0pp34hcH1ioV2r51WHMWEIpUwLPvpa3F5rZnfUTylMOaBn-uuyMnufTnEAdgrabt3G7rSE0F~eWigzgaAY4eZySaPuesglaQVdwd6xRPMzHFr88V4PGI51WfIsHQ__&Key-Pair-Id=K1SXOWNSQGJT65
+l
