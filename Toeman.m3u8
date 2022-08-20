@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/uJBTwWTpW7iJosE5yg4uXtLS0OPowXNY7vrN6CYyyeVJ-wwO-PeVjON49RlWe7MLp4HdhWop7zRC2EQ0yI4wyA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://bf2.mzbox.net/live/sd-1-3742333.m3u8?txSecret=9cefbeddab02a7a367b7903f731e2ad3&txTime=62d29dd8
+http://akamai2-me.cdn.booyah.live/hls/1700000/120323435.m3u8
