@@ -2,3 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 http://dangguli.live:8080/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
+#http://vn360sport.duckdns.org:9981/stream/channelid/1693614712?auth=PlnOlsgnHwY7fYaEqZgT3DMesdis
