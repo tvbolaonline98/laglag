@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://akamai2-me.cdn.booyah.live/hls_go/2000000/120326067.m3u8
+https://ghgh1-usea.streaming.media.azure.net/fb7da926-3bd4-425e-8bf9-e18aec6d05f7/fc6533c5-739a-49b6-8e86-f2172dce286a.ism/QualityLevels(2200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
