@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-ap-southeast-2.video.pscp.tv/Transcoding/v1/hls/gJGHorc6Unvhy9qiQNKaestTS_JoJoviiJm1QZTXXdD1lC5iSe226-8a-UDMeduiton0xtNgoDY0QjPw5Xmekw/transcode/ap-southeast-2/periscope-replay-direct-prod-ap-southeast-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
+https://akamai2-me.cdn.booyah.live/hls/1700005/120364467.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://pull.zygmsg.com/armenia/968830690.m3u8?auth_key=1660506541-0-0-bfe4bc09f298e593407b727836b922b7
