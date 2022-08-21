@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://craff23.s.llnwi.net/live/streamcnhd4116.m3u8?auth_key=1659795317-ff4efd9cb3dd484d9f37778962d5fec5-0-89c05acc10f688782114688d7ed3bc7f
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may111/chunklist.m3u8
+http://dangguli.live:8080/StarSportsSelect2/tracks-v1a1/mono.m3u8
