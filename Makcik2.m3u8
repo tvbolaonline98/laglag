@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://akamai2-me.cdn.booyah.live/hls/1700004/120364044.m3u8
+https://vsd155.mycdn.me/hls/2955500784209.m3u8/sig/DqMxrS0rvyM/expires/1661180693134/srcIp/114.10.23.49/clientType/0/srcAg/CHROME_ANDROID/mid/4785797930577/2955500784209_high/index.m3u8?p
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zk7-mRTUV7Qmk2P1SG8rPs4GhoM97YQy8hcvNfoIbETz7MprdCvd_zFw8Wniw4zj4IMjcdJXXR5sjUncEKbLXw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tm_dynamic_highlatency.m3u8?type=live
+http://akamai2-me.cdn.booyah.live/hls/1700004/120364044.m3u8
