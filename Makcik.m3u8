@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-l
+https://admdn1ta.cdn.mgmlcdn.com/adsports1/adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/adsports1.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
