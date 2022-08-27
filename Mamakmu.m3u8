@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://akamai2-me.cdn.booyah.live/hls_go/2000001/120408935.m3u8
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_z6XmBRii/wixmp-3dbd5cb16bb136182e099f78_z6XmBRii_res480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://bf2.feisuzb.cn/live/sd-1-3746908.m3u8?txSecret=e97032b15880fc8cb6ab504dab23a880&txTime=62f7d22c
