@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/iOho9DTRN25ytIJZhgMZB7kP6_8voBr_ObFE4JM3lsw61-GYPEBhPD5j9IIRqxr2zI6wzbmpGs3t3KYwiqB0Tg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tm_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://vsd96.mycdn.me/hls/2976471583313.m3u8/sig/UEV6ebPsvbc/expires/1661684577837/srcIp/117.20.55.51/clientType/0/srcAg/CHROME_ANDROID/mid/4804988247633/2976471583313_high/index.m3u8?p
+https://hls.aishoucang.la/livestream/gutiyu4/playlist.m3u8?k=4709f625392234767f7e4877d17107e6&a=118.163.218.235&u=111&t=1661686343
