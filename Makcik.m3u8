@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://admdn1ta.cdn.mgmlcdn.com/adsports1/adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+https://live-ak.vimeocdn.com/exp=1661608090~acl=%2Ff0533b19-1a6e-45d0-b380-1065049ba23a%2F%2A~hmac=bfea533720b58765a406739bb9a6e7c97e6fcdfe628c4bf360a9aaaff818b317/f0533b19-1a6e-45d0-b380-1065049ba23a/chunklist_b728000.m3u8?max_segments=10
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://admdn1ta.cdn.mgmlcdn.com/adsports1/adsports1.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
+l
