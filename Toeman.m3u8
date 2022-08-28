@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/YXqdDEzhlaWo9jnHEyhX3Gg-PZggLqkhx2b1MztP7fdBOOyB-I-HOx7qBvJed5iJWO8lYdowPnU3cx4bFCLbYw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/QIDkiy1IrYnyemoQ9IB77ugmf2P3lTv30_CVct64c52LAySD1TGMLp7CTW2wz9NzMrea690jdKn46wFtve95qg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://fdkjhgbv-usea.streaming.media.azure.net/a660d2dc-9f8a-4bb7-bbea-f71a9d328810/e17e9e15-7662-4a08-b32a-972534e4ff65.ism/QualityLevels(2200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
