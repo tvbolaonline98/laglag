@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/y52W-Fu1c6Nxius4AGhUuowmKcNNhY_9rmJTZgPJ3o9_Tkljr2awWEx_6VxT9CiWLnsVWrn99izR58gPz3ryNg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
+https://bf2.feisuzb.cn/live/sd-1-3746978.m3u8?txSecret=6b0a3e6115c0f9c6c939f217fd142911&txTime=630fa975
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://lshstream.xyz/hls/allsportsicu10/index.m3u8?Pericopalotes135
