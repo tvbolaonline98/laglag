@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bf2.feisuzb.cn/live/sd-1-3746986.m3u8?txSecret=ac25170c659742b84b105ea46e0d0356&txTime=630fa9a2
+https://wsdddffd-usea.streaming.media.azure.net/4ca84111-5d24-4684-8def-9a518cce9701/output-20220831-182144-manifest.ism/QualityLevels(2200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://lshstream.xyz/hls/allsportsicu05/index.m3u8?Pericopalotes135
+https://bf2.feisuzb.cn/live/sd-1-3746986.m3u8?txSecret=ac25170c659742b84b105ea46e0d0356&txTime=630fa9a2
