@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/iOho9DTRN25ytIJZhgMZB7kP6_8voBr_ObFE4JM3lsw61-GYPEBhPD5j9IIRqxr2zI6wzbmpGs3t3KYwiqB0Tg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tm_dynamic_highlatency.m3u8?type=live
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://hls.aishoucang.la/livestream/gutiyu4/playlist.m3u8?k=4709f625392234767f7e4877d17107e6&a=118.163.218.235&u=111&t=1661686343
+https://live-ak.vimeocdn.com/exp=1662058271~acl=%2Fb1277457-9fe5-47fd-b8ec-19bdb4741e4e%2F%2A~hmac=65c33481c7b38cc3830bf4971af37a7074231d1fe72608a5f460573e5801a203/b1277457-9fe5-47fd-b8ec-19bdb4741e4e/chunklist_b3256000.m3u8?max_segments=10
