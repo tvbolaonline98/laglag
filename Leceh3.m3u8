@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:5
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/KlU3_BZs-q3WBMmnEV3nCjRsW_tRrQKQrnAClbVseljzzBevH5IABNl7fkgDXkICu8zsulOtmymNgZf3ikMYbQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tm_dynamic_highlatency.m3u8?type=live
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/111600.m3u8
