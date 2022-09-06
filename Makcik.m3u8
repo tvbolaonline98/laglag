@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-#http://live1.streamk.co:8080/sportsbox_preview/live46/chunklist_w781159130.m3u8?site=gaktv&ch=live46
+http://live1.streamk.co:8080/sportsbox_preview/live46/chunklist_w781159130.m3u8?site=gaktv&ch=live46
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 l
