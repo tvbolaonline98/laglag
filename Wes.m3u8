@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:5
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://vsd115.mycdn.me/hls/2977562561105.m3u8/sig/ub1HYRb_Bu4/expires/1661776953733/srcIp/114.10.9.29/clientType/0/srcAg/CHROME_ANDROID/mid/4806293790289/2977562561105_medium/index.m3u8?p
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/94444.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://dcvvv-usea.streaming.media.azure.net/e5cf202e-2426-4e05-a15a-9e48ded3febe/output-20220828-143142-manifest.ism/QualityLevels(2200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
+l
