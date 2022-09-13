@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://asddd-usea.streaming.media.azure.net/d633c32c-b2c5-4975-9766-f460b1727b6e/output-20220913-172419-manifest.ism/QualityLevels(850000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
+https://d33481fd66d4eb6.cmccloud.com.vn/vod/hls/SIYDdBxjlE/index.m3u8
