@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d33481fd66d4eb6.cmccloud.com.vn/vod/hls/YxhwCfn5L5/index.m3u8
+https://live-ak.vimeocdn.com/exp=1663096696~acl=%2Fef8133b5-6918-4ebb-9a5e-6e7e045ffb49%2F%2A~hmac=66619ffc9c1e90a51f8756e1705a043c7bd88a118f949a36468c4af71bcb69ee/ef8133b5-6918-4ebb-9a5e-6e7e045ffb49/chunklist_b728000.m3u8?max_segments=10&min_seconds=30
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://pull.zygmsg.com/armenia/462287986.m3u8?auth_key=1662831551-0-0-8abb4e197c486455cf191fdc58c6336f
+https://live-ak.vimeocdn.com/exp=1663096696~acl=%2Fef8133b5-6918-4ebb-9a5e-6e7e045ffb49%2F%2A~hmac=66619ffc9c1e90a51f8756e1705a043c7bd88a118f949a36468c4af71bcb69ee/ef8133b5-6918-4ebb-9a5e-6e7e045ffb49/chunklist_b728000.m3u8?max_segments=10&min_seconds=30
