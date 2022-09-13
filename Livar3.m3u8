@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_499712=4-mp4a_64000_spa=26.m3u8
+https://live-ak.vimeocdn.com/exp=1663096696~acl=%2Fef8133b5-6918-4ebb-9a5e-6e7e045ffb49%2F%2A~hmac=66619ffc9c1e90a51f8756e1705a043c7bd88a118f949a36468c4af71bcb69ee/ef8133b5-6918-4ebb-9a5e-6e7e045ffb49/chunklist_b728000.m3u8?max_segments=10&min_seconds=30
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-l
+https://live-ak.vimeocdn.com/exp=1663096696~acl=%2Fef8133b5-6918-4ebb-9a5e-6e7e045ffb49%2F%2A~hmac=66619ffc9c1e90a51f8756e1705a043c7bd88a118f949a36468c4af71bcb69ee/ef8133b5-6918-4ebb-9a5e-6e7e045ffb49/chunklist_b728000.m3u8?max_segments=10&min_seconds=30
