@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live-ak.vimeocdn.com/exp=1663102717~acl=%2Fbed03949-38de-4bc8-8fd0-3dc22c00be34%2F%2A~hmac=ddd31c791a5aaf0fe293a12b0fe8ea18b6c6dc7a90cfd85ee1180b254d9c2727/bed03949-38de-4bc8-8fd0-3dc22c00be34/chunklist_b416000.m3u8?max_segments=10
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/HrUBkt0R0kxcfiQ0WWGIEb9LKNdMXVSPUbQvszaH8lmNZx-4dnx2aDK1NTy85D5CQbyEEJgi0Qs99WvubuFe_w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://d33481fd66d4eb6.cmccloud.com.vn/vod/hls/y8oyuPPmUT/index.m3u8
