@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live-ak.vimeocdn.com/exp=1663185560~acl=%2F60eefd57-9f35-4831-b940-52a4220a2c84%2F%2A~hmac=be86f91b43e3cc61efd4b1fdb29c4b8a26e1f863b1096997b7e8fcfc0007c420/60eefd57-9f35-4831-b940-52a4220a2c84/chunklist_b728000.m3u8?max_segments=10&min_seconds=30
+https://pull.zygmsg.com/armenia/481496734.m3u8?auth_key=1663201320-0-0-3476401a8bc139e533ac8a98a2e29057
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8
