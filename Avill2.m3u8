@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_499712=4-mp4a_62000_spa=14.m3u8
+https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001663352148-0-0-95935353c98b1e71ae7db559c69197e3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000
 https://playvideo.kqbd.com/live/3746962.m3u8?txSecret=de6abef9035d7d15e421dd6fc0c49f06&txTime=630A40EE
