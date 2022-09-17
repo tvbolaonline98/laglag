@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-l
+https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/8Y33ZBuiivzHHV9WpiZXqbYwygjEzPiNPj5BHF_ur0YBB8PySOyqwbeoxQmG37pjPtkc6fFP0__ikOkuOe9wOw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://ddgfgse-usea.streaming.media.azure.net/d1e107b4-cc65-4640-86c6-419c8937319d/3848ee70-a8e8-49a3-9dba-7047522d25b6.ism/QualityLevels(850000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
