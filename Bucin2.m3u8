@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://20c1a8s-euwe.streaming.media.azure.net/83eaadce-059f-44cd-aa3a-e0d6e0c3b66e/output-20220917-134021-manifest.ism/QualityLevels(800000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://d33481fd66d4eb6.cmccloud.com.vn/vod/hls/y8oyuPPmUT/index.m3u8
+https://20c1a8s-euwe.streaming.media.azure.net/83eaadce-059f-44cd-aa3a-e0d6e0c3b66e/output-20220917-134021-manifest.ism/QualityLevels(800000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
