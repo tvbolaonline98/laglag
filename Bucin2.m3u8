@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/HrUBkt0R0kxcfiQ0WWGIEb9LKNdMXVSPUbQvszaH8lmNZx-4dnx2aDK1NTy85D5CQbyEEJgi0Qs99WvubuFe_w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
+https://20c1a8s-euwe.streaming.media.azure.net/83eaadce-059f-44cd-aa3a-e0d6e0c3b66e/output-20220917-134021-manifest.ism/QualityLevels(800000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://d33481fd66d4eb6.cmccloud.com.vn/vod/hls/y8oyuPPmUT/index.m3u8
