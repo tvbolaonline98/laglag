@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/5K3PdHMy3r0d4sQnA16J6rIlFEYqQY1T6cPooB3u8UvZbEI9GQz1PExzd0ELC17k1J8uwBVFPudAma5Xy5WKnw/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/tw_dynamic_highlatency.m3u8?type=live
+https://vsd69.mycdn.me/hls/3041652836945.m3u8/sig/UuVfj4hZ_p8/expires/1663508552205/srcIp/114.10.7.190/clientType/0/srcAg/CHROME_ANDROID/mid/4886751157841/3041652836945_medium/index.m3u8?p
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/111605.m3u8
+l
