@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live-ak.vimeocdn.com/exp=1663102785~acl=%2Fca2801ec-5d4f-49fa-89fe-e98b86e5993f%2F%2A~hmac=e0e9e25fded8eb5230139672504cc7532cba51227beaecd8ba9d03f7e29b0535/ca2801ec-5d4f-49fa-89fe-e98b86e5993f/chunklist_b416000.m3u8?max_segments=10
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://d33481fd66d4eb6.cmccloud.com.vn/vod/hls/SIYDdBxjlE/index.m3u8
+https://a4e2055449b.s3.amazonaws.com/c75a9df4a845fdf1/live.m3u8|referer=https://imah8ziehiu.cfd/
